@@ -1,0 +1,11 @@
+ID,Name,Email,Age,Department,Salary,Join_Date
+101,Gowtham,gowtham@gmail.com,21,IT,30000,2024-01-15
+102,Ravi,ravi@gmail.com,22,HR,35000,15/02/2024
+103,Lata,lata@gmail.com,23,IT,40000,2024-03-10
+104,Kumari,,24,Finance,45000,10-04-2024
+105,Muskan,muskan@gmail.com,,IT,50000,2024-05-20
+106,Ranjini,ranjini@gmail.com,22,hr,35000,2024-02-15
+102,Ravi,ravi@gmail.com,22,HR,35000,15/02/2024
+107,  Arjun  ,arjun@gmail.com,25,Finance,,2024-06-15
+108,Meena,meena@gmail.com,26,it,55000,20/07/2024
+109,Anil,anil@gmail.com,27,IT,60000,2024-08-01
